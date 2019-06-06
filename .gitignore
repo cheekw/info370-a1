@@ -1,0 +1,14 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+__pycache__
+
+# Thumbnails
+._*
+
+# Data
+data/*
+
+# Jupiter Notebook
+.ipynb_checkpoints
